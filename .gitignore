@@ -3,3 +3,6 @@ data/raw/*.json
 data/cleaned/*.csv
 __pycache__/
 .pytest_cache/
+.env
+*.pyc
+.DS_Store
